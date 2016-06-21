@@ -1,0 +1,12 @@
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\bin\Release\Trent XWB Doser.exe
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\bin\Release\Trent XWB Doser.pdb
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\bin\Release\Trent XWB Doser.xml
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Release\Trent_XWB_Doser.Form1.resources
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Release\Trent_XWB_Doser.Resources.resources
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Release\Trent XWB Doser.vbproj.GenerateResource.Cache
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Release\Trent XWB Doser.exe
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Release\Trent XWB Doser.xml
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Release\Trent XWB Doser.pdb
+C:\laboratorio\trent\Trent XWB Doser.exe
+C:\laboratorio\trent\Trent XWB Doser.pdb
+C:\laboratorio\trent\Trent XWB Doser.xml

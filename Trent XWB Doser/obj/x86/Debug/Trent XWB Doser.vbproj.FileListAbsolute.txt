@@ -1,0 +1,21 @@
+C:\Users\DAVID\AppData\Local\Temporary Projects\Trent XWB Doser\bin\Debug\Trent XWB Doser.exe
+C:\Users\DAVID\AppData\Local\Temporary Projects\Trent XWB Doser\bin\Debug\Trent XWB Doser.pdb
+C:\Users\DAVID\AppData\Local\Temporary Projects\Trent XWB Doser\bin\Debug\Trent XWB Doser.xml
+C:\Users\DAVID\AppData\Local\Temporary Projects\Trent XWB Doser\obj\x86\Debug\Trent_XWB_Doser.Form1.resources
+C:\Users\DAVID\AppData\Local\Temporary Projects\Trent XWB Doser\obj\x86\Debug\Trent_XWB_Doser.Resources.resources
+C:\Users\DAVID\AppData\Local\Temporary Projects\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.vbproj.GenerateResource.Cache
+C:\Users\DAVID\AppData\Local\Temporary Projects\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.exe
+C:\Users\DAVID\AppData\Local\Temporary Projects\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.xml
+C:\Users\DAVID\AppData\Local\Temporary Projects\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.pdb
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.exe
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.xml
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.pdb
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\bin\Debug\Trent XWB Doser.exe
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\bin\Debug\Trent XWB Doser.pdb
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\bin\Debug\Trent XWB Doser.xml
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Debug\Trent_XWB_Doser.Form1.resources
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Debug\Trent_XWB_Doser.Resources.resources
+C:\Users\DAVID\documents\visual studio 2010\Projects\Trent XWB Doser\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.vbproj.GenerateResource.Cache
+I:\trent\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.exe
+I:\trent\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.xml
+I:\trent\Trent XWB Doser\obj\x86\Debug\Trent XWB Doser.pdb
